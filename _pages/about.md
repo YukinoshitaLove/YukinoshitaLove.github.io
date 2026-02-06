@@ -22,7 +22,7 @@ Currently, I am pursuing a Ph.D. in Computer Science and Technology at Nankai Un
 
 My primary research interests encompass diffusion models, image restoration and digital image processing. I have published top international AI conferences with total 
 <a href="https://scholar.google.com/citations?user=IJiK74oAAAAJ">
-  <img src="https://img.shields.io/endpoint?url={{https://github.com/YukinoshitaLove/YukinoshitaLove.github.io/blob/google-scholar-stats/gs_data_shieldsio.json}}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
+  <img src="https://img.shields.io/endpoint?url=https://github.com/YukinoshitaLove/YukinoshitaLove.github.io/blob/google-scholar-stats/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 </a>.
 
 # 💡 Tech Transfer
