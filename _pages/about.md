@@ -20,7 +20,7 @@ redirect_from:
 I graduated with a bachelor's degree in Computer Science and Technology from Hohai University in June 2023.
 Currently, I am pursuing a Ph.D. in Computer Science and Technology at Nankai University, under the guidance of Professor [Li, Tao](https://scholar.google.com/citations?user=FWamm4sAAAAJ&hl=zh-CN).
 
-My primary research interests encompass diffusion models, image restoration and digital image processing. I have published top international AI conferences with total <a href='https://scholar.google.com/citations?user=IJiK74oAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My primary research interests encompass diffusion models, image restoration and digital image processing. I have published top international AI conferences with total <a href='https://scholar.google.com/citations?user=IJiK74oAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FFqnchina%2Ffqnchina.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 🔥 Tech Transfer
 VIVO X200 series: <a href="https://www.dxomark.com/putting-the-vivo-x200-pro-to-the-test-in-china/">High-fidelity generative diffusion models for telephoto image enhancement​</a>
