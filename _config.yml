@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Personal Website"
-description              : "Zhenning's personal website"
+description              : "Ph.D."
 repository               : "YukinoshitaLove/YukinoshitaLove.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -30,7 +30,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=IJiK74oAAAAJ&hl=zh-CN"
   email            : "shizhenning@mail.nankai.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              : "www.flashszn.cn"
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
