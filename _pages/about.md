@@ -20,7 +20,10 @@ redirect_from:
 I graduated with a bachelor's degree in Computer Science and Technology from Hohai University in June 2023.
 Currently, I am pursuing a Ph.D. in Computer Science and Technology at Nankai University, under the guidance of Professor [Li, Tao](https://scholar.google.com/citations?user=FWamm4sAAAAJ&hl=zh-CN).
 
-My primary research interests encompass diffusion models, image restoration and digital image processing. I have published top international AI conferences with total <a href='https://scholar.google.com/citations?user=IJiK74oAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FFqnchina%2Ffqnchina.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My primary research interests encompass diffusion models, image restoration and digital image processing. I have published top international AI conferences with total 
+<a href="https://scholar.google.com/citations?user=IJiK74oAAAAJ">
+  <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
+</a>.
 
 # 🔥 Tech Transfer
 VIVO X200 series: <a href="https://www.dxomark.com/putting-the-vivo-x200-pro-to-the-test-in-china/">High-fidelity generative diffusion models for telephoto image enhancement​</a>
@@ -31,7 +34,7 @@ VIVO X200 series: <a href="https://www.dxomark.com/putting-the-vivo-x200-pro-to-
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 </div><img src='images/papers/livemoments.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 </div><img src='images/papers/livemoments.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 LiveMoments: Reselected Key Photo Restoration in Live Photos via Reference-guided Diffusion
 
@@ -42,7 +45,7 @@ Clara Xue, Zizheng Yan, <strong>Zhenning Shi</strong>, Yuhang Yu, Jingyu Zhuang,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Arxiv </div><img src='images/papers/TriFlowSR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Arxiv </div><img src='images/papers/TriFlowSR.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Ultra-High-Definition Reference-Based Landmark Image Super-Resolution with Generative Diffusion Prior](./pdfs/2508.10779v1.pdf)
 
@@ -58,7 +61,7 @@ Clara Xue, Zizheng Yan, <strong>Zhenning Shi</strong>, Yuhang Yu, Jingyu Zhuang,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> NeurIPS 2024 </div><img src='images/papers/Resfusion.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> NeurIPS 2024 </div><img src='images/papers/Resfusion.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Resfusion: Denoising diffusion probabilistic models for image restoration based on prior residual noise](./pdfs/2311.14900v4.pdf)
 
