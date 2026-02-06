@@ -23,7 +23,7 @@ Currently, I am pursuing a Ph.D. in Computer Science and Technology at Nankai Un
 My primary research interests encompass diffusion models, image restoration and digital image processing. I have published top international AI conferences with total 
 <a href="https://scholar.google.com/citations?user=IJiK74oAAAAJ">
   <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
-</a>. lalala
+</a>.
 
 # 🔥 Tech Transfer
 VIVO X200 series: <a href="https://www.dxomark.com/putting-the-vivo-x200-pro-to-the-test-in-china/">High-fidelity generative diffusion models for telephoto image enhancement​</a>
