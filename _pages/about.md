@@ -24,7 +24,7 @@ My primary research interests encompass diffusion models, image restoration and 
 <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/YukinoshitaLove/YukinoshitaLove.github.io/google-scholar-stats/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 💡 Tech Transfer
-VIVO X200 series: <a href="https://www.dxomark.com/putting-the-vivo-x200-pro-to-the-test-in-china/">High-fidelity generative diffusion models for telephoto image enhancement​</a>
+VIVO X300 series: <a href="https://www.dxomark.com/vivo-x300-pro-camera-test//">Landmark image enhancement via reference-guided diffusion​</a>
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 ICLR 2026 Accepted. 
