@@ -24,7 +24,7 @@ My primary research interests encompass diffusion models, image restoration and 
 <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/YukinoshitaLove/YukinoshitaLove.github.io/google-scholar-stats/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 💡 Tech Transfer
-VIVO X300 series: <a href="https://www.dxomark.com/vivo-x300-pro-camera-test//">Landmark image enhancement via reference-guided diffusion​</a>
+VIVO X300 series: - <a href="https://www.dxomark.com/vivo-x300-pro-camera-test//">Landmark image enhancement via reference-guided diffusion​</a> (Press: <a href="https://h.xinhuaxmt.com/vh512/share/13102947?docid=13102947&newstype=1001&d=13526a3&channel=weixin" target="_blank">Xinhua News Agency</a>)
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 ICLR 2026 Accepted. 
@@ -32,11 +32,33 @@ VIVO X300 series: <a href="https://www.dxomark.com/vivo-x300-pro-camera-test//">
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Arxiv </div><img src='images/papers/ScaleResfusion.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[ScaleResfusion: Residual Rectified Flow based on Residual Vector Field](./pdfs/2607.25275v1.pdf)
+
+<strong>Zhenning Shi*</strong>, Chen Xu*, Junhao Zhang, Kefei Zhang, Linjie Liu, Zhedong Zheng, Tao Li
+  
+<a href="https://arxiv.org/abs/2607.25275" target="_blank">arXiv</a>
+/
+<a href="https://github.com/YukinoshitaLove/ScaleResfusion" target="_blank">codes</a>
+
+- Proposes ScaleResfusion, a scalable Real-IR framework that starts sampling from noisy LQ images while remaining consistent with pre-trained text-to-image Rectified Flow models, overcoming the from-scratch training and scheduler-bound objectives of previous residual diffusion methods.
+- Introduces the marginal-independent residual vector field $resv = \epsilon - x_0 + \gamma R = v_{\mathrm{RF}} + \gamma R$, which preserves the linear transport and marginal distributions of standard Rectified Flow, reducing adaptation to a compact residual offset that can be efficiently learned with LoRA.
+- Builds a LoRA-based knowledge-distillation pipeline that scales residual restoration to billion-parameter backbones—from SD3 (2B) to FLUX2 (9B)—and achieves state-of-the-art performance on multiple Real-IR tasks with only four sampling steps.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 </div><img src='images/papers/livemoments.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-LiveMoments: Reselected Key Photo Restoration in Live Photos via Reference-guided Diffusion
+[LiveMoments: Reselected Key Photo Restoration in Live Photos via Reference-guided Diffusion](./QingnanFan_files/iclr_2026.pdf)
 
-Clara Xue, Zizheng Yan, <strong>Zhenning Shi</strong>, Yuhang Yu, Jingyu Zhuang, Qi Zhang, Jinwei Chen, Qingnan Fan
+Clara Xue*, Zizheng Yan*, <strong>Zhenning Shi</strong>, Yuhang Yu, Jingyu Zhuang, Qi Zhang, Jinwei Chen, Qingnan Fan.
+
+<a href="https://arxiv.org/abs/2604.12286" target="_blank">arXiv</a>
+/
+<a href="https://github.com/OpenVeraTeam/LiveMoments" target="_blank">codes</a>
+/
+<a href="https://clara7-c.github.io/livemoments/" target="_blank">project page</a>
 
 - The first to address the problem of reselected key photo restoration in Live Photos.
 - LiveMoments significantly improves perceptual quality and fidelity over existing solutions, including the recent flagships from vivo and iPhone.
