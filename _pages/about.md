@@ -41,6 +41,8 @@ VIVO X300 series: - <a href="https://www.dxomark.com/vivo-x300-pro-camera-test//
 <a href="https://arxiv.org/abs/2607.25275" target="_blank">arXiv</a>
 /
 <a href="https://github.com/YukinoshitaLove/ScaleResfusion" target="_blank">codes</a>
+/
+<a href="https://mailnankaieducn-my.sharepoint.com/:v:/g/personal/shizhenning_mail_nankai_edu_cn/IQBoy3T-p6qTSLhhpoZn3KyFAaJA3kvdiBXgoGy2aa1AcQ8?e=GmWi7q" target="_blank">video</a>
 
 - Proposes ScaleResfusion, a scalable Real-IR framework that starts sampling from noisy LQ images while remaining consistent with pre-trained text-to-image Rectified Flow models, overcoming the from-scratch training and scheduler-bound objectives of previous residual diffusion methods.
 - Introduces the marginal-independent residual vector field $resv = \epsilon - x_0 + \gamma R = v_{\mathrm{RF}} + \gamma R$, which preserves the linear transport and marginal distributions of standard Rectified Flow, reducing adaptation to a compact residual offset that can be efficiently learned with LoRA.
