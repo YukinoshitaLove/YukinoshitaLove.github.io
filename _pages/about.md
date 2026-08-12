@@ -62,7 +62,7 @@ Clara Xue*, Zizheng Yan*, <strong>Zhenning Shi</strong>, Yuhang Yu, Jingyu Zhuan
 /
 <a href="https://clara7-c.github.io/livemoments/" target="_blank">project page</a>
 /
-<a href="[https://clara7-c.github.io/livemoments/](https://mailnankaieducn-my.sharepoint.com/:v:/g/personal/shizhenning_mail_nankai_edu_cn/IQD16YmkjPvDS5fMnwTwLSHcAVPUu3-EsXGt3FeTY30MpYM?e=1Bj2xF)" target="_blank">video</a>
+<a href="https://mailnankaieducn-my.sharepoint.com/:v:/g/personal/shizhenning_mail_nankai_edu_cn/IQD16YmkjPvDS5fMnwTwLSHcAVPUu3-EsXGt3FeTY30MpYM?e=5c9jsl">video</a>
 
 - The first to address the problem of reselected key photo restoration in Live Photos.
 - LiveMoments significantly improves perceptual quality and fidelity over existing solutions, including the recent flagships from vivo and iPhone.
