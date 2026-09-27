@@ -24,7 +24,7 @@ My primary research interests encompass diffusion models, image restoration and 
 <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/YukinoshitaLove/YukinoshitaLove.github.io/google-scholar-stats/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 💡 Tech Transfer
-VIVO X300 series: - <a href="https://www.dxomark.com/vivo-x300-pro-camera-test//">Landmark image enhancement via reference-guided diffusion​</a> (Press: <a href="https://h.xinhuaxmt.com/vh512/share/13102947?docid=13102947&newstype=1001&d=13526a3&channel=weixin" target="_blank">Xinhua News Agency</a>)
+VIVO X300 series: - <a href="https://www.dxomark.com/vivo-x300-pro-camera-test//">Landmark image enhancement via reference-guided diffusion​</a> (Press: <a href="https://h.xinhuaxmt.com/vh512/share/13102947?docid=13102947&newstype=1001&d=13526a3&channel=weixin" target="_blank">Xinhua News Agency</a> <a href="https://www.youtube.com/watch?v=kay87MWCY9U" target="_blank">YouTube</a>)
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 ICLR 2026 Accepted. 
@@ -41,6 +41,8 @@ VIVO X300 series: - <a href="https://www.dxomark.com/vivo-x300-pro-camera-test//
 <a href="https://arxiv.org/abs/2607.25275" target="_blank">arXiv</a>
 /
 <a href="https://github.com/YukinoshitaLove/ScaleResfusion" target="_blank">codes</a>
+/
+<a href="https://yukinoshitalove.github.io/ScaleResfusion/" target="_blank">project page</a>
 /
 <a href="https://mailnankaieducn-my.sharepoint.com/:v:/g/personal/shizhenning_mail_nankai_edu_cn/IQBoy3T-p6qTSLhhpoZn3KyFAaJA3kvdiBXgoGy2aa1AcQ8?e=GmWi7q" target="_blank">video</a>
 
