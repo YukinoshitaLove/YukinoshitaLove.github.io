@@ -36,7 +36,7 @@ VIVO X300 series: - <a href="https://www.dxomark.com/vivo-x300-pro-camera-test//
 <div class='paper-box-text' markdown="1">
 [ScaleResfusion: Residual Rectified Flow based on Residual Vector Field](./pdfs/2607.25275v1.pdf)
 
-<strong>Zhenning Shi*</strong>, Chen Xu*, Junhao Zhang, Kefei Zhang, Linjie Liu, Zhedong Zheng, Tao Li
+<strong> Zhenning Shi* </strong>, Chen Xu*, Junhao Zhang, Kefei Zhang, Linjie Liu, Zhedong Zheng, Tao Li
   
 <a href="https://arxiv.org/abs/2607.25275" target="_blank">arXiv</a>
 /
